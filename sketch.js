@@ -42,13 +42,10 @@ function setup() {
     }
     
 
-/*
-    
-function keyPressed(){
-    save("image####.png")
-
+/*  
+    function keyPressed(){
+    save("image####.png");
     }
-
-    */
+*/
 
 
